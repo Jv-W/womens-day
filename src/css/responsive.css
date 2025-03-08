@@ -1,0 +1,23 @@
+@media (max-width: 420px) {
+    body{
+
+        .swiper {
+            
+            width: 350px;
+            height: 350px;
+
+            .swiper-slide div{
+                top: 0;
+                left: 0;
+                
+                p{
+                    width: 332px;
+                    height: 310px;
+                    
+                    
+                }
+            }
+        }
+        
+    }
+}
