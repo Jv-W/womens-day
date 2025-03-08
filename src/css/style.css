@@ -58,6 +58,7 @@ body {
         padding: 8px;
         border-radius: 8px;
         max-width: 380px;
+        overflow-y: auto;
         
         
         h2 {
@@ -67,9 +68,9 @@ body {
         p{
             color:  #fab2be;
             height: 326px;
-            overflow-y: auto;
             font-weight: 700;
             font-size: 18px;
+            
             
         }
     }
