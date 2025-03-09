@@ -1,23 +1,25 @@
-@media (max-width: 420px) {
-    body{
+@media (max-width: 480px) {
+    body {
 
         .swiper {
-            
             width: 350px;
             height: 350px;
 
-            .swiper-slide div{
-                top: 0;
-                left: 0;
-                
-                p{
-                    width: 332px;
-                    height: 310px;
-                    
-                    
+            .swiper-slide div {
+                top: 6px;
+                left: 8px;
+
+                p {
+                    width: 312px;
+                    height: 298px;
+                    padding: 3px;
                 }
             }
         }
-        
+
+        .arrow {
+            right: 0px;
+            bottom: 8px;
+        }
     }
 }
