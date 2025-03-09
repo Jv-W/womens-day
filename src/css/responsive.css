@@ -1,9 +1,19 @@
+@media (max-width: 520px) {
+    body {
+        .arrow img {
+            right: 0px;
+            bottom: -80px;
+        }
+    }
+}
+
+
 @media (max-width: 480px) {
     body {
 
         .swiper {
-            width: 350px;
-            height: 350px;
+            width: 360px;
+            height: 360px;
 
             .swiper-slide div {
                 top: 6px;
@@ -16,10 +26,7 @@
                 }
             }
         }
-
-        .arrow {
-            right: 0px;
-            bottom: 8px;
-        }
     }
 }
+
+@media (max-width: px) {}
