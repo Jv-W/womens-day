@@ -1,32 +1,24 @@
 @media (max-width: 520px) {
-    body {
-        .arrow img {
-            right: 0px;
-            bottom: -80px;
-        }
+  body {
+    .arrow img {
+                right: 0px;
+                bottom: -80px;
     }
+  }
 }
-
 
 @media (max-width: 480px) {
     body {
-
         .swiper {
-            width: 360px;
-            height: 360px;
+                width: 376px;
+                height: 376px;
 
-            .swiper-slide div {
-                top: 6px;
-                left: 8px;
-
-                p {
-                    width: 312px;
-                    height: 298px;
-                    padding: 3px;
-                }
-            }
-        }
+    .swiper-slide div {
+        width: 364px;
+        height: 364px;
+        top: 6px;
+        left: 6px;
     }
+    }
+  }
 }
-
-@media (max-width: px) {}
